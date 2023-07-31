@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SZEF000</h1>
 <h3 align="center">A passionate developer from Nigere</h3>
-<img align="right" alt="codnig" width=400 src=![image](https://github.com/SZEF000/SZEF000/assets/141022214/20c6f80d-bad4-4215-88d9-934b37e369dd)
+<img align="right" alt="codnig" width=400 src=https://qph.cf2.quoracdn.net/main-qimg-dafdfef801fff7de2f9efeaef7511dde>
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szef000&label=Profile%20views&color=0e75b6&style=flat" alt="szef000" /> </p>
 
