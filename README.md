@@ -4,7 +4,7 @@
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szef000&label=Profile%20views&color=0e75b6&style=flat" alt="szef000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szef000" alt="szef000" /></a> </p>
+
 
 - 📫 Contact **Discord: szef_magik**
 
