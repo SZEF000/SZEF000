@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SZEF000</h1>
 <h3 align="center">A passionate developer from Nigere</h3>
-<img align="right" alt="codnig" width=400 src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FHow-do-I-hack-into-my-ex-girlfriend-s-old-phone&psig=AOvVaw0H1nI8wYa4FwrRP7S74gYp&ust=1690885321148000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCc_ejcuIADFQAAAAAdAAAAABAb.gif>
+<img align="right" alt="codnig" width=400 src=![image](https://github.com/SZEF000/SZEF000/assets/141022214/20c6f80d-bad4-4215-88d9-934b37e369dd)
+>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szef000&label=Profile%20views&color=0e75b6&style=flat" alt="szef000" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=szef000" alt="szef000" /></a> </p>
