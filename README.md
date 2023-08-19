@@ -1,4 +1,4 @@
-![logo](https://cdn.discordapp.com/attachments/1134758460462989353/1135520814666629220/image.png)
+![logo](https://norns.community/assets/covers/qfwfq.png)
 <h1 align="center">Hi 👋, I'm SZEF000</h1>
 <h3 align="center">A passionate developer from Nigere</h3>
 
